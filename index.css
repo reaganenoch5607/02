@@ -4,20 +4,21 @@ body {
 .box{
     display: flex;
     justify-content: center;
-    width: auto;
+    max-width: 1440px;
+    height: 100vh;
 
 }
 .inbox {
     display: flex;
     padding: 10px;
+    max-width: 350px;
     flex-direction: column;
     background-color: white;
     border-radius: 7px;
     text-align: center;
 }
 img  {
-    width: 40%;
-    right: 10px;
+    width: 100%;
     border-radius: 5px;
     }
 p {
