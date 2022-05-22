@@ -1,0 +1,26 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+.box{
+    display: flex;
+    justify-content: center;
+    width: auto;
+
+}
+.inbox {
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 7px;
+    text-align: center;
+}
+img  {
+    width: 40%;
+    right: 10px;
+    border-radius: 5px;
+    }
+p {
+    font-weight: 100;
+    font-size: medium;
+}
