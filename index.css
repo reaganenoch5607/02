@@ -6,12 +6,12 @@ body {
     justify-content: center;
     max-width: 1440px;
     height: 100vh;
+    margin: 0 auto;
 
 }
 .inbox {
     display: flex;
     padding: 10px;
-    margin: 0 auto;
     max-width: 350px;
     flex-direction: column;
     background-color: white;
